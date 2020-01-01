@@ -1,0 +1,16 @@
+{
+  "name": "type_blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jutalik <50254404+jutalik@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node dist/index.js\" --compiler C:\\Users\\jangju\\AppData\\Roaming\\npm\\tsc"
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.0.0"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
